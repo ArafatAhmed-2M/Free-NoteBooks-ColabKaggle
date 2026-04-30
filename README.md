@@ -1,5 +1,5 @@
 # 2M AI Suite: The Ultimate Cloud-Based Creative Toolkit 🚀
-### 🛠️ Developed by: **[Arafat Ahmed Mubin](https://github.com/ArafatAhmedMubin)**
+### 🛠️ Developed by: **[Arafat Ahmed Mubin](https://github.com/ArafatAhmed-2M)**
 ### 🌐 Brand: **2M**
 ---
 
